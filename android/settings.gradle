@@ -1,0 +1,3 @@
+rootProject.name = 'one_time_password'
+
+include ':app'
